@@ -1,8 +1,8 @@
-public class Person2 {
+public class Personaunkan {
   private String name; // private = restricted access
 
   // Getter
-  public String getName2() {
+  public String getName23456() {
     return name;
   }
 
